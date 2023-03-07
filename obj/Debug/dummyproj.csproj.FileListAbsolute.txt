@@ -1,0 +1,10 @@
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\bin\Debug\dummyproj.exe
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\bin\Debug\dummyproj.pdb
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.Form1.resources
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.csproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.exe
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.pdb
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.exe.licenses
+C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.Form2.resources
