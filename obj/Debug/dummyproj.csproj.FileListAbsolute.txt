@@ -8,3 +8,5 @@ C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.exe
 C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.pdb
 C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.exe.licenses
 C:\Users\USER\AppData\Local\Temp\tmp9BC3\obj\Debug\dummyproj.Form2.resources
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Debug\dummyproj.exe
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Debug\dummyproj.pdb

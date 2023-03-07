@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\GitHub\TestWinforms\bin\Release\dummyproj.exe
+C:\Users\USER\Documents\GitHub\TestWinforms\bin\Release\dummyproj.pdb
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.Form1.resources
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.Form2.resources
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.exe.licenses
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.exe
+C:\Users\USER\Documents\GitHub\TestWinforms\obj\Release\dummyproj.pdb

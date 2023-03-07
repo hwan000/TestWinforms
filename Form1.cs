@@ -15,7 +15,7 @@ namespace dummyproj
         {
             InitializeComponent();
         }
-
+        //test~!
 
         int text1 = 0;
         int text2 = 0;
@@ -49,6 +49,11 @@ namespace dummyproj
             this.Visible = false;
             Form2 showForm2 = new Form2();
             showForm2.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
 
     }
